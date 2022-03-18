@@ -1,0 +1,43 @@
+/* navbar */
+
+.navbar-brand{
+    font-family: 'Knewave';
+    font-size: 25px;
+}
+
+.jumbotron{
+    padding-top: 4rem;
+    background-color: rgb(102, 187, 240);
+    padding-bottom: 4rem;
+}
+
+.row h3{
+    letter-spacing: 5px;
+}
+
+.display-4 {
+    color: whitesmoke;
+}
+
+.lead {
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.row h2 {
+    background-color: black;
+    color: whitesmoke;
+    padding-bottom: 10px;
+    border-radius: 15px;
+}
+
+.footer-text {
+    background-color: #8cc7f1;
+  }
+
+.footer-text h3 {
+    color: black;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
